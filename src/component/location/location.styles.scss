@@ -1,0 +1,31 @@
+$padding: 16px 16px 0px;
+
+.click {
+  cursor: pointer;
+}
+
+.info {
+  padding: $padding;
+  margin-bottom: 0;
+}
+
+.modal {
+  bottom: 0 !important;
+  width: 100% !important;
+}
+
+.section {
+  padding: 4px !important;
+}
+
+.col {
+  padding-left: 4px !important;
+}
+
+.row {
+  margin: 0;
+}
+
+.divide {
+  margin: 0 !important;
+}

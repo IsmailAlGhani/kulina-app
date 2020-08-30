@@ -1,24 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
+import Location from './component/location/location.component';
+import DateSlide from './component/date-slide/date-slide.component';
+import CollectionCard from './component/collection-card/collection-card.component';
+import CustomOption from './component/custom-option/custom-option.component';
 import './App.css';
+import 'semantic-ui-css/semantic.min.css';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="body">
+      <Location />
+      <br />
+      <DateSlide />
+      <br />
+      <CustomOption />
+      <br />
+      <CollectionCard />
     </div>
   );
 }

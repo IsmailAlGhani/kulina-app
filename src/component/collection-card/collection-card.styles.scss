@@ -1,0 +1,21 @@
+.description {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  .description-icon {
+    align-self: center;
+    justify-content: center;
+    fill: #f1f1f2;
+  }
+}
+
+.item {
+  border-radius: 8px;
+  background-color: #a23530;
+  width: 100%;
+  padding: 10px;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  bottom: 0;  
+}
