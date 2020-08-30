@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/kulina-app/static/css/main.ad623f6f.chunk.css",
+    "main.js": "/kulina-app/static/js/main.1a7fb603.chunk.js",
+    "main.js.map": "/kulina-app/static/js/main.1a7fb603.chunk.js.map",
+    "runtime-main.js": "/kulina-app/static/js/runtime-main.afa784eb.js",
+    "runtime-main.js.map": "/kulina-app/static/js/runtime-main.afa784eb.js.map",
+    "static/css/2.a0bc95b3.chunk.css": "/kulina-app/static/css/2.a0bc95b3.chunk.css",
+    "static/js/2.e4769880.chunk.js": "/kulina-app/static/js/2.e4769880.chunk.js",
+    "static/js/2.e4769880.chunk.js.map": "/kulina-app/static/js/2.e4769880.chunk.js.map",
+    "index.html": "/kulina-app/index.html",
+    "precache-manifest.82b771191c71bbb816dec427347f374c.js": "/kulina-app/precache-manifest.82b771191c71bbb816dec427347f374c.js",
+    "service-worker.js": "/kulina-app/service-worker.js",
+    "static/css/2.a0bc95b3.chunk.css.map": "/kulina-app/static/css/2.a0bc95b3.chunk.css.map",
+    "static/css/main.ad623f6f.chunk.css.map": "/kulina-app/static/css/main.ad623f6f.chunk.css.map",
+    "static/js/2.e4769880.chunk.js.LICENSE.txt": "/kulina-app/static/js/2.e4769880.chunk.js.LICENSE.txt",
+    "static/media/ayesha-firdaus-B5KHSDnAxRw-unsplash.jpg": "/kulina-app/static/media/ayesha-firdaus-B5KHSDnAxRw-unsplash.2e6c5fc6.jpg",
+    "static/media/semantic.min.css": "/kulina-app/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/dario-TtadVut4jsg-unsplash.jpg": "/kulina-app/static/media/dario-TtadVut4jsg-unsplash.6a5fcddb.jpg",
+    "static/media/slick-theme.css": "/kulina-app/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afa784eb.js",
+    "static/css/2.a0bc95b3.chunk.css",
+    "static/js/2.e4769880.chunk.js",
+    "static/css/main.ad623f6f.chunk.css",
+    "static/js/main.1a7fb603.chunk.js"
+  ]
+}
